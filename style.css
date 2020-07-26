@@ -1,0 +1,28 @@
+
+body{
+    text-align: center;
+    background-image: url("bg.JPG");
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+background-repeat: no-repeat;
+
+background-position: center;
+
+
+}
+@media only screen and (min-width: 400px) {
+    body {
+      background-image: url('bg.JPG');
+    }
+  }
+
+.container{
+    text-align: center;
+
+margin-top: 100px;
+
+}
+
+
+
